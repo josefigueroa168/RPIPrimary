@@ -72,3 +72,5 @@ This poll seeks to understand RPI's current standing in the 2020 primary electio
 * This survey was distributed accross several RPI academic discords, as well as word of mouth.
 * The survey was hosted on google forms, where login authentification was used to prevent multiple submissions. 
 * Each record is solely identified by it's submission timestamp. 
+
+Fo
