@@ -50,6 +50,8 @@ This poll seeks to understand RPI's current standing in the 2020 primary electio
 
 #### General Election matchups
 
+(Who would you vote for)
+
 * Joe Biden vs Donald Trump 
 * Elizabeth Warren vs Donald Trump
 * Bernie Sanders vs Donald Trump 
